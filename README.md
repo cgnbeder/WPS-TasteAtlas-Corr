@@ -1,4 +1,4 @@
-# Correlation Analysis Between Women's Rights and Culinary Quality
+# Correlation Between Women's Rights Indexes and Countries' Cuisine Rankings
 
 ## Project Overview
 This project explores the relationship between a country's Women's Peace and Security (WPS) index and its ranking in global cuisine. The analysis uses data from the Georgetown Institute for Women, Peace and Security (GIWPS) and TasteAtlas. The aim is to determine whether there is a significant correlation between a country's women's rights situation and the quality of its cuisine.
